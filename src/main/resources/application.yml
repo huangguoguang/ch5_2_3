@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  contextPath: /helloboot
+
+book:
+  name: 黄光
+  author: huangguang
